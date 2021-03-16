@@ -1,0 +1,122 @@
+[
+    {
+        "id": "9",
+        "name": "Batwoman",
+        "universe": "DC Comics",
+        "films": 1
+    },
+    {
+        "id": "12",
+        "name": "Shazan",
+        "universe": "DC Comics",
+        "films": 1
+    },
+    {
+        "id": "1",
+        "name": "Spider Man",
+        "universe": "Marvel",
+        "films": 6
+    },
+    {
+        "id": "14",
+        "name": "Wolverine",
+        "universe": "Marvel",
+        "films": 3
+    },
+    {
+        "id": "13",
+        "name": "Viúva Negra",
+        "universe": "Marvel",
+        "films": 1
+    },
+    {
+        "id": "18",
+        "name": "Hulk",
+        "universe": "Marvel",
+        "films": 3
+    },
+    {
+        "id": "4",
+        "name": "Vision",
+        "universe": "Marvel",
+        "films": 2
+    },
+    {
+        "id": "16",
+        "name": "Surfista Prateado",
+        "universe": "Marvel",
+        "films": 1
+    },
+    {
+        "id": "3",
+        "name": "Flash",
+        "universe": "DC Comics",
+        "films": 1
+    },
+    {
+        "id": "5",
+        "name": "Batman",
+        "universe": "DC Comics",
+        "films": 5
+    },
+    {
+        "id": "11",
+        "name": "Cyborg",
+        "universe": "DC Comics",
+        "films": 0
+    },
+    {
+        "id": "17",
+        "name": "Arqueiro Verde",
+        "universe": "DC Comics",
+        "films": 1
+    },
+    {
+        "id": "19",
+        "name": "Pantera Negra",
+        "universe": "Marvel",
+        "films": 3
+    },
+    {
+        "id": "7",
+        "name": "Aquaman",
+        "universe": "DC Comics",
+        "films": 4
+    },
+    {
+        "id": "15",
+        "name": "Thor",
+        "universe": "Marvel",
+        "films": 3
+    },
+    {
+        "id": "20",
+        "name": "Deadpool",
+        "universe": "Marvel",
+        "films": 2
+    },
+    {
+        "id": "10",
+        "name": "Lanterna Verde",
+        "universe": "DC Comics",
+        "films": 1
+    },
+    {
+        "id": "2",
+        "name": "Mulher Maravilha",
+        "universe": "DC Comics",
+        "films": 2
+    },
+    {
+        "id": "6",
+        "name": "Superman",
+        "universe": "DC Comics",
+        "films": 8
+    },
+    {
+        "id": "8",
+        "name": "Homem de Ferro",
+        "universe": "Marvel",
+        "films": 5
+    }
+]
